@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "362591073914",
+    "project_id": "covidtrackerapplicationgr",
+    "storage_bucket": "covidtrackerapplicationgr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362591073914:android:58f175dfaa4f4cd88c2dc3",
+        "android_client_info": {
+          "package_name": "com.unipi.vlachos.covidtrackerapplicationgr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362591073914-2qqsal8cm565v77fvl2gf3vd6qc17kv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqfeybWd4AhXlx70l--b7gM01b8QGpKuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362591073914-2qqsal8cm565v77fvl2gf3vd6qc17kv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
